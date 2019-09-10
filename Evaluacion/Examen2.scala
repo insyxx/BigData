@@ -1,5 +1,5 @@
 val scores = List(10,5,20,20,4, 5, 2, 25, 1)
-val scores = List(3,4,21,36,10,28,35,5,24,42)
+//val scores = List(3,4,21,36,10,28,35,5,24,42)
 
 def breakingRecords(scores:List[Int]):Unit={    //se inicia la funcion donde tomara un arreglo tipo entero
     var score = 0                               // Se agrega un contador para recorrer los espacios del arreglo
