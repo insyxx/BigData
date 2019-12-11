@@ -17,6 +17,8 @@
 
 **Introducción**
 
+jols
+
 En esta práctica aplicamos los principios de la programación en scala aprendidos durante los primeros días del curso
 
 **Instruccion**
