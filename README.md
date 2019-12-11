@@ -35,7 +35,7 @@ Codigo
 
 //1. Desarrollar un algoritmo en scala que calcule el radio de un circulo
 
-val c = 6
+val c = 6 
 var radio = c/(2*3.1416)
 
 //2. Desarrollar un algoritmo en scala que me diga si un numero es primo
