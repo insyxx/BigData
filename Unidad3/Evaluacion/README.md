@@ -23,6 +23,7 @@ import org.apache.spark.sql.SparkSession
 {VectorAssembler,StringIndexer,VectorIndexer,OneHotEncoder}
 import org.apache.spark.ml.linalg.Vectors
 import org.apache.log4j._
+
 // 2. Se minimizan los errores
 Logger.getLogger("org").setLevel(Level.ERROR)
 // 3. Creamos la instancia de sesion en Spark
