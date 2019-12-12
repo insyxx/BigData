@@ -1,2 +1,0 @@
-# BigData
-Tareas y Evaluaciones
